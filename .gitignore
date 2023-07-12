@@ -42,4 +42,9 @@ out
 gen
 .gradle
 build
+settings.gradle
+gradlew.bat
+gradlew
+build.gradle
+gradle
 
